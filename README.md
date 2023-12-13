@@ -16,8 +16,8 @@
 - **GitHub Server Link**: https://github.com/sajalbiswas1/blog-website-server-a11
 - **Unique Feature**: 
    - Tanstack Querry data face user friendly
-   - Wishlist blog and reading later
+   - Wishlist blog and reading later easily
 - **Unique Technology**:
-    - useMutation tanstack querry loading
+    - useMutation tanstack querry loading data
 - **Projects Selling line**: 
-    -  
+    -  You can post your own blog here. You can express your opinion. A lot of information will be known. Your information can be shared with everyone. Solve the problem of not being able to share information.
