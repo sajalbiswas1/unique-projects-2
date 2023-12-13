@@ -9,7 +9,7 @@
     - *Dynamic Rating*: 
     Dynamic ratings can make your website or application more interactive and engaging. Users enjoy providing feedback and seeing their input reflected visually.
 - **Projects Selling line**: 
-    -  
+    -  Manage Car Sales, Car Details, Customer Rating, Know Car Price, Manage Total Showroom Car Sales,
 ## Unique Project 02
 - **Projects Live Link**: https://bloggerex-44566.web.app
 - **GitHub Clint Link**: https://github.com/sajalbiswas1/blog-website-clint-a11
@@ -20,4 +20,4 @@
 - **Unique Technology**:
     - useMutation tanstack querry loading data
 - **Projects Selling line**: 
-    -  You can post your own blog here. You can express your opinion. A lot of information will be known. Your information can be shared with everyone. Solve the problem of not being able to share information.
+    - Solve the problem of not being able to share information.You can express your opinion & feedback comment in your blog.
